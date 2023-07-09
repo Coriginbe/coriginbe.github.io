@@ -1,5 +1,5 @@
 # Coriginbe
 
-[AList](https://coriginbe.repl.co/)
+[~AList (暂不可用)~](https://coriginbe.cn/)
 
 [404](404)
