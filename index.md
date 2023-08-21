@@ -4,7 +4,7 @@
 
 [Coriginbe（Github Page）](https://coriginbe.github.io/)
 
-[Coriginbe（热铁盒网页托管）](https://coriginbe.rth1.one/index.md)
+[Coriginbe（热铁盒网页托管）](https://coriginbe.rth1.link/index.md)
 
 [~~AList（暂不可用）~~](https://coriginbe.cn/)
 
