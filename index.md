@@ -11,4 +11,4 @@
 [404](404)
 
 ### GitHub Repositories
-[输出随机整数 Output Random Integer](Output-Random-Integer)
+[随机整数输出器 RandomIntegerOutputer](RandomIntegerOutputer)
