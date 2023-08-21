@@ -11,4 +11,4 @@
 [404](404)
 
 ### GitHub Repositories
-[随机整数输出器 RandomIntegerOutputer](RandomIntegerOutputer)
+[RandomIntegerOutputer - 随机整数输出器](RandomIntegerOutputer)
