@@ -1,4 +1,4 @@
-# [AppUpdateHighlights](https://github.com/Coriginbe/coriginbe.github.io/AppUpdateHighlights)
+# [AppUpdatePoints](https://github.com/Coriginbe/coriginbe.github.io/AppUpdatePoints)
 
 ### App 更新要点
 
