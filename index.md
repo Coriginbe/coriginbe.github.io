@@ -10,5 +10,8 @@
 
 [404](404)
 
+[AppUpdatePoints - App 更新要点](AppUpdatePoints.md)
+
 ### GitHub Repositories
+
 [RandomIntegerOutputer - 随机整数输出器](RandomIntegerOutputer)
