@@ -29,6 +29,11 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 - **CN-Ver. 6.44.0**  
   新增功能「骑行记录工具」
 
+### 京东
+
+- **GP-Ver. 12.1.0(98891)**
+  Target API 更新至 33
+
 ### 快手极速版  
 
 - **CN-Ver. 10.3.31.3276**  
@@ -43,7 +48,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
   支持卖家发布商品时提供邮寄和自提两种发货方式
 
 - **CN-Ver. 7.13.81(357)**
-  Target API 由 28 更新至 33
+  Target API 更新至 33
 
 ### 微信 WeChat
 
