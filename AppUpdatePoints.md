@@ -31,7 +31,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 
 ### 京东
 
-- **GP-Ver. 12.1.0(98891)**
+- **GP-Ver. 12.1.0(98891)**  
   Target API 更新至 33
 
 ### 快手极速版  
@@ -47,7 +47,7 @@ GP-Ver. ：Google Play 版 | CN-Ver. ：中国版
 - **CN-Ver. 7.8.70**  
   支持卖家发布商品时提供邮寄和自提两种发货方式
 
-- **CN-Ver. 7.13.81(357)**
+- **CN-Ver. 7.13.81(357)**  
   Target API 更新至 33
 
 ### 微信 WeChat
