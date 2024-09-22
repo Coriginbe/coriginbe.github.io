@@ -2,7 +2,7 @@
 
 [404](404)
 
-[AppChangePoints - App 更新要点](AppChangePoints)
+[AppVersionPoints - App 版本要点](AppVersionPoints)
 
 ### GitHub Repositories
 
