@@ -4,6 +4,8 @@
 
 [AppVersionPoints - App 版本要点](AppVersionPoints)
 
+[Geekerwan2026PhoneReview - 极客湾2026零售机性能横评](Geekerwan2026PhoneReview)
+
 
 ### GitHub Repositories
 
